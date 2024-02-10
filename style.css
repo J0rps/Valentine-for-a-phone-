@@ -1,0 +1,59 @@
+*{
+  font-family: 'Monaco', Monospace;
+  font-weight: bold;
+  /* add font font-family */
+}
+
+html{
+  height: 100%;
+  width: 100%;
+}
+body{
+  background-color: #FFD8B1;
+}
+img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 200px;
+  height:200px;
+  margin-bottom: 75px;
+}
+div{
+  text-align: center;
+  vertical-align: middle;
+}
+.willYou{
+text-align: center;
+}
+
+.Yippe{
+
+  background-color: #22b922;
+  border-color: white;
+  border-style: solid;
+  width: 65px;
+  height: 50px;
+  border-radius: 10px;
+  color: white;
+  font-size: 20px;
+  margin-left: -50px;
+  max-width: 340px;
+  max-height: 145px;
+}
+.NOOOO{
+  position: absolute;
+  transition: transform 0.3s;
+  background-color: #d71d1d;
+  border-color: white;
+  border-style: solid;
+  width: 65px;
+  height: 50px;
+  border-radius: 10px;
+  color: white;
+  font-size: 20px;
+
+}
+.valentineIMG{
+  display: none;
+}
